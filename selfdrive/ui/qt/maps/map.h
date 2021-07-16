@@ -21,7 +21,8 @@
 #include <QTimer>
 #include <QWheelEvent>
 #include <QMap>
-#include <QPixmap>
+#include <QPixmap> 
+#include <QPainterPath> 	//Beck, 7/15/21
 
 #include "selfdrive/common/params.h"
 #include "selfdrive/common/util.h"
